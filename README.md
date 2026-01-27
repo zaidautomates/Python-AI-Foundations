@@ -38,5 +38,6 @@ A robust database simulation for managing student records. This project focuses 
 
 
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Zaid Ali | AI Engineer in Making | n8n Developer Building the bridge between Automation and AI.
