@@ -94,7 +94,7 @@ python student_visualizer.py
 2. Click the "Choose Files" button when prompted.
 3. Enter the number of toppers you want to visualize (e.g., 20 or 50).
 ---
-### 👨‍💻 Author
+<b>👨‍💻 Author</b> <br>
 <b>Zaid Ali</b> | AI Engineer in Making | n8n Developer
 
 <i>Building the bridge between Automation and AI.</i>
