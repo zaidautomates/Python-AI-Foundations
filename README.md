@@ -15,7 +15,7 @@ My goal is to master the pipeline from **Core Logic** to **Automated Data Scienc
 ---
 
 ## 📂 Project 2: Student Management System (CRUD)
-**File:** `student_system.py`<br>
+**File:** `student_management_system.py`<br>
 **Status:** ✅ Completed (Day 2 Task)
 * **Focus:** Database Simulation & Data Integrity.
 * **Tech:** NoSQL-style List of Dictionaries, Strict Input Validation.
