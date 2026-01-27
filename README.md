@@ -15,6 +15,7 @@ My goal is to master the "Theory behind the Code" and build production-grade log
 
 ## 📂 Project 2: Student Management System (CRUD)
 **File:** `student_system.py`
+
 **Status:** ✅ Completed (Day 2 Task)
 
 A robust database simulation for managing student records. This project focuses on **Data Integrity** and **CRUD Operations** (Create, Read, Update, Delete).
