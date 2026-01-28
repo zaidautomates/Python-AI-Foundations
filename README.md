@@ -68,18 +68,11 @@ python student_analyzer.py
 
 ---
 
-## 📂 Project 4: Universal Performance Visualizer (EDA)
+## 📂 Project 4: Universal Visualizer (EDA)
 **File:** `student_visualizer.py`<br>
 **Status:** ✅ Completed (Day 4 Task)
-
-A "Smart" Data Visualization tool that adapts to different datasets and generates boardroom-ready reports.
-
-### 🧠 Advanced Engineering Logic:
-* **Universal Loader:** Automatically detects environment (**Google Colab** vs **Local PC**) to switch between "Upload Button" and "File Path Input".
-* **Duplicate Resolution:** Uses Logic (`Name + Roll No`) to distinguish between students with identical names, preventing data merging errors.
-* **Dynamic Canvas:** Algorithmically adjusts the graph height based on user input (e.g., auto-expands for 50 students vs 10 students).
-* **Smart Calculation:** If "Total Marks" are missing in the raw CSV, the script automatically detects numeric subjects and calculates performance metrics on the fly.
-
+* **Focus:** Data Visualization & Insights.
+* **Tech:** **Seaborn** & **Matplotlib**. A smart tool that auto-adjusts graph size and handles duplicate names.
 ---
 
 ### 🛠️ How to Run:
@@ -93,7 +86,30 @@ python student_visualizer.py
 1. Run the script.
 2. Click the "Choose Files" button when prompted.
 3. Enter the number of toppers you want to visualize (e.g., 20 or 50).
+
 ---
+
+## 📂 Project 5: Universal ML Predictor (Machine Learning)
+**File:** `ml_predictor.py`<br>
+**Status:** ✅ Completed (Day 5 Task)
+
+A generic **Supervised Learning** tool that fits a **Linear Regression** model to any dataset.
+
+### 🧠 AI Concepts Applied:
+* **Scikit-Learn Implementation:** Used `sklearn.linear_model` to train the AI.
+* **Universal Feature Selection:** The script allows users to choose *any* Input (X) and Target (y) column from their CSV.
+* **Train-Test Split:** Implemented `train_test_split` (80/20) to validate model accuracy before deployment.
+* **Interactive Prediction:** Allows real-time user input to generate future predictions based on learned patterns.
+
+---
+
+### 🛠️ How to Run:
+```bash
+pip install pandas scikit-learn matplotlib
+python ml_predictor.py
+```
+---
+
 <b>👨‍💻 Author</b> <br>
 <b>Zaid Ali</b> | AI Engineer in Making | n8n Developer
 
