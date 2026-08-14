@@ -1,3 +1,19 @@
+# Python AI Foundations
+
+## Repository overview
+
+Python foundations and data-engineering exercises for AI/ML, including CLI tools, analysis, visualization, and prediction.
+
+The existing README documents the training projects and how to run them.
+
+## Documentation status
+
+This overview is documentation-only. No application code, configuration, dependency manifest, or runtime behavior is changed by this update.
+
+---
+
+## Existing project notes
+
 # 🐍 Python Logic & Data Engineering for AI
 
 This repository documents my journey in the **3-Month AI/ML Training at UET Mardan (KPITB)**. 
